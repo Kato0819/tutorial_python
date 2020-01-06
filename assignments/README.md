@@ -1,0 +1,2 @@
+jUpyter notebookにリッジ回帰のクラスとデータの処理を書きました。（Chapter5_assignment.ipynbというファイルです。）
+kaggleのアカウントは　MasahiroKato0819 です。
